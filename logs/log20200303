@@ -1,0 +1,32 @@
+2020-03-03 16:35:03.039 +02:00 [INF] Check login, result -> True
+2020-03-03 16:35:04.029 +02:00 [INF] Registrate new user, id -> 1
+2020-03-03 16:35:21.206 +02:00 [INF] Check login, result -> False
+2020-03-03 16:35:21.228 +02:00 [WRN] Login must be more than 3 characters and less 256. IP -> 127.0.0.1
+2020-03-03 16:35:38.950 +02:00 [INF] Check login, result -> True
+2020-03-03 16:35:39.132 +02:00 [INF] User login, id -> 1
+2020-03-03 16:35:46.966 +02:00 [INF] Check login, result -> True
+2020-03-03 16:35:46.998 +02:00 [WRN] Wrong password. IP -> 127.0.0.1
+2020-03-03 16:35:50.822 +02:00 [INF] Check login, result -> True
+2020-03-03 16:35:50.865 +02:00 [INF] User login, id -> 1
+2020-03-03 16:40:08.698 +02:00 [INF] Check login, result -> True
+2020-03-03 16:40:08.808 +02:00 [INF] User login, id -> 1
+2020-03-03 16:40:38.101 +02:00 [INF] Update profile gender, id -> 
+2020-03-03 16:40:38.129 +02:00 [INF] Update profile age, id -> 
+2020-03-03 16:40:38.141 +02:00 [INF] Update profile city, id -> 
+2020-03-03 16:40:38.142 +02:00 [INF] Update profile, id -> 1
+2020-03-03 16:40:53.776 +02:00 [INF] Update profile gender, id -> 
+2020-03-03 16:40:53.794 +02:00 [INF] Update profile age, id -> 
+2020-03-03 16:40:53.802 +02:00 [INF] Update profile city, id -> 
+2020-03-03 16:40:53.833 +02:00 [INF] Update profile photo, id -> 
+2020-03-03 16:40:53.833 +02:00 [INF] Update profile, id -> 1
+2020-03-03 16:41:09.785 +02:00 [INF] Check login, result -> True
+2020-03-03 16:41:09.829 +02:00 [INF] Registrate new user, id -> 2
+2020-03-03 16:41:17.632 +02:00 [INF] Check login, result -> True
+2020-03-03 16:41:17.675 +02:00 [INF] Registrate new user, id -> 3
+2020-03-03 16:41:21.572 +02:00 [INF] Check login, result -> True
+2020-03-03 16:41:21.621 +02:00 [INF] Registrate new user, id -> 4
+2020-03-03 16:41:38.319 +02:00 [INF] Check login, result -> True
+2020-03-03 16:41:38.385 +02:00 [INF] Registrate new user, id -> 5
+2020-03-03 16:41:50.758 +02:00 [INF] Check login, result -> True
+2020-03-03 16:41:50.802 +02:00 [INF] User login, id -> 1
+2020-03-03 16:41:59.496 +02:00 [INF] Get users by user, id -> 1

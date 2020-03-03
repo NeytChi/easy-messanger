@@ -1,0 +1,8 @@
+{ 
+	"Server" : "localhost",
+	"Database" : "easy_messanger", 
+	"User" : "root", 
+	"Password" : "root", 
+   	"Pooling" : "false",
+	"SslMode" : "none"
+}

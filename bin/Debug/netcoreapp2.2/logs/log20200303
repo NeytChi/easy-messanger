@@ -1,0 +1,234 @@
+2020-03-03 16:08:43.416 +02:00 [INF] Registrate new user, id -> 1
+2020-03-03 16:08:43.578 +02:00 [INF] Registrate new user, id -> 2
+2020-03-03 16:08:43.616 +02:00 [INF] Registrate new user, id -> 3
+2020-03-03 16:08:43.620 +02:00 [INF] Registrate new user, id -> 4
+2020-03-03 16:08:43.632 +02:00 [INF] Registrate new user, id -> 5
+2020-03-03 16:08:43.705 +02:00 [INF] Registrate new user, id -> 6
+2020-03-03 16:08:43.709 +02:00 [INF] Registrate new user, id -> 7
+2020-03-03 16:08:43.721 +02:00 [INF] Registrate new user, id -> 8
+2020-03-03 16:08:43.725 +02:00 [INF] Registrate new user, id -> 9
+2020-03-03 16:08:43.751 +02:00 [INF] User login, id -> 9
+2020-03-03 16:08:43.755 +02:00 [INF] Registrate new user, id -> 10
+2020-03-03 16:08:43.757 +02:00 [INF] User log out, id -> 10
+2020-03-03 16:08:43.784 +02:00 [INF] Registrate new user, id -> 1202020-03-03 16:08:43.790 +02:00 [INF] Registrate new user, id -> 12
+2020-03-03 16:08:43.791 +02:00 [INF] Restored old user, id -> 12
+2020-03-03 16:08:43.816 +02:00 [INF] Registrate new user, id -> 13
+2020-03-03 16:08:43.834 +02:00 [INF] Registrate new user, id -> 14
+2020-03-03 16:08:43.932 +02:00 [INF] Registrate new user, id -> 15
+2020-03-03 16:08:43.935 +02:00 [INF] Registrate new user, id -> 16
+2020-03-03 16:08:44.134 +02:00 [INF] Registrate new user, id -> 17
+2020-03-03 16:08:44.137 +02:00 [INF] Registrate new user, id -> 18
+2020-03-03 16:08:44.142 +02:00 [INF] Registrate new user, id -> 19
+2020-03-03 16:08:44.146 +02:00 [INF] Registrate new user, id -> 20
+2020-03-03 16:08:44.199 +02:00 [INF] Registrate new user, id -> 21
+2020-03-03 16:08:44.202 +02:00 [INF] Registrate new user, id -> 22
+2020-03-03 16:08:44.205 +02:00 [INF] Registrate new user, id -> 23
+2020-03-03 16:08:44.318 +02:00 [INF] Registrate new user, id -> 24
+2020-03-03 16:08:44.321 +02:00 [INF] Registrate new user, id -> 25
+2020-03-03 16:08:44.326 +02:00 [INF] Registrate new user, id -> 26
+2020-03-03 16:08:44.330 +02:00 [INF] Registrate new user, id -> 27
+281 +02:00 [INF] Get blocked users, id -> 21
+2020-03-03 16:08:44.333 +02:00 [INF] User(id -> 26) unblock user, id -> 8
+:44.181 +02:00 [INF] Save new text message
+2020-03-03 16:08:44.181 +02:00 [INF] Send new message, id -> 3
+2020-03-03 16:08:44.340 +02:00 [INF] Registrate new user, id -> 28
+2020-03-03 16:08:44.351 +02:00 [INF] Registrate new user, id -> 29
+2020-03-03 16:08:44.369 +02:00 [INF] Registrate new user, id -> 30
+2020-03-03 16:08:44.372 +02:00 [INF] Registrate new user, id -> 31
+2020-03-03 16:08:44.379 +02:00 [INF] Registrate new user, id -> 32
+2020-03-03 16:08:44.384 +02:00 [INF] Registrate new user, id -> 33
+2020-03-03 16:08:44.395 +02:00 [INF] Registrate new user, id -> 34
+2020-03-03 16:08:44.399 +02:00 [INF] Registrate new user, id -> 35
+2020-03-03 16:08:44.415 +02:00 [INF] Registrate new user, id -> 36
+2020-03-03 16:08:44.419 +02:00 [INF] Registrate new user, id -> 37
+2020-03-03 16:08:44.422 +02:00 [INF] Registrate new user, id -> 38
+2020-03-03 16:08:44.588 +02:00 [INF] Registrate new user, id -> 39
+2020-03-03 16:08:44.592 +02:00 [INF] Registrate new user, id -> 40
+2020-03-03 16:08:44.596 +02:00 [INF] Registrate new user, id -> 41
+2020-03-03 16:08:44.839 +02:00 [INF] Registrate new user, id -> 42
+2020-03-03 16:08:44.843 +02:00 [INF] Registrate new user, id -> 43
+2020-03-03 16:08:44.847 +02:00 [INF] Registrate new user, id -> 44
+2020-03-03 16:08:44.898 +02:00 [INF] Registrate new user, id -> 45
+2020-03-03 16:08:44.902 +02:00 [INF] Registrate new user, id -> 46
+2020-03-03 16:08:44.908 +02:00 [INF] Registrate new user, id -> 47
+2020-03-03 16:08:45.010 +02:00 [INF] Registrate new user, id -> 48
+2020-03-03 16:08:45.014 +02:00 [INF] Registrate new user, id -> 49
+2020-03-03 16:08:45.019 +02:00 [INF] Registrate new user, id -> 50
+2020-03-03 16:08:45.055 +02:00 [INF] Registrate new user, id -> 51
+2020-03-03 16:08:45.059 +02:00 [INF] Registrate new user, id -> 52
+2020-03-03 16:08:45.084 +02:00 [INF] Registrate new user, id -> 53
+2020-03-03 16:08:45.088 +02:00 [INF] Registrate new user, id -> 54
+2020-03-03 16:08:45.164 +02:00 [INF] Registrate new user, id -> 55
+2020-03-03 16:08:45.169 +02:00 [INF] Registrate new user, id -> 56
+2020-03-03 16:08:45.188 +02:00 [INF] Registrate new user, id -> 57
+2020-03-03 16:08:45.193 +02:00 [INF] Registrate new user, id -> 58
+2020-03-03 16:08:45.204 +02:00 [INF] Registrate new user, id -> 59
+2020-03-03 16:08:45.211 +02:00 [INF] Registrate new user, id -> 60
+2020-03-03 16:08:45.229 +02:00 [INF] Registrate new user, id -> 61
+2020-03-03 16:08:45.238 +02:00 [INF] Registrate new user, id -> 62
+2020-03-03 16:08:45.266 +02:00 [INF] Registrate new user, id -> 63
+2020-03-03 16:08:45.273 +02:00 [INF] Registrate new user, id -> 64
+0 [INF] Create new chat by user, id -> 39
+2020-03-03 16:08:44.603 +02:00 [INF] Save new chat
+2020-03-03 16:08:44.604 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:44.605 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:44.606 +02:00 [INF] Create new chat by user, id -> 39
+2020-03-03 16:08:44.607 +02:00 [INF] Save new text message
+2020-03-03 16:08:44.608 +02:00 [INF] Send new message, id -> 8
+2020-03-03 16:08:44.649 +02:00 [INF] Get chats by user with gender, id -> 39
+2020-03-03 16:08:44.850 +02:00 [INF] Save new chat
+2020-03-03 16:08:44.850 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:44.851 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:44.851 +02:00 [INF] Create new chat by user, id -> 42
+2020-03-03 16:08:44.853 +02:00 [INF] Save new chat
+2020-03-03 16:08:44.854 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:44.855 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:44.855 +02:00 [INF] Create new chat by user, id -> 42
+2020-03-03 16:08:44.865 +02:00 [INF] Get chats by user with gender, id -> 42
+2020-03-03 16:08:44.911 +02:00 [INF] Save new chat
+2020-03-03 16:08:44.912 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:44.913 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:44.913 +02:00 [INF] Create new chat by user, id -> 45
+2020-03-03 16:08:44.915 +02:00 [INF] Save new chat
+2020-03-03 16:08:44.916 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:44.917 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:44.917 +02:00 [INF] Create new chat by user, id -> 45
+2020-03-03 16:08:44.918 +02:00 [INF] Save new text message
+2020-03-03 16:08:44.919 +02:00 [INF] Send new message, id -> 9
+2020-03-03 16:08:44.963 +02:00 [INF] Get chats by user with gender, id -> 45
+2020-03-03 16:08:45.021 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.022 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.023 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.023 +02:00 [INF] Create new chat by user, id -> 48
+2020-03-03 16:08:45.025 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.026 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.027 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.027 +02:00 [INF] Create new chat by user, id -> 48
+2020-03-03 16:08:45.029 +02:00 [INF] Save new text message
+2020-03-03 16:08:45.029 +02:00 [INF] Send new message, id -> 10
+2020-03-03 16:08:45.031 +02:00 [INF] Save new text message
+2020-03-03 16:08:45.031 +02:00 [INF] Send new message, id -> 11
+2020-03-03 16:08:45.033 +02:00 [INF] Get chats by user, id -> 48
+2020-03-03 16:08:45.062 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.063 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.064 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.064 +02:00 [INF] Create new chat by user, id -> 51
+2020-03-03 16:08:45.064 +02:00 [INF] Get chats by user, id -> 51
+2020-03-03 16:08:45.092 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.093 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.094 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.094 +02:00 [INF] Create new chat by user, id -> 53
+2020-03-03 16:08:45.096 +02:00 [INF] Save new text message
+2020-03-03 16:08:45.096 +02:00 [INF] Send new message, id -> 12
+2020-03-03 16:08:45.146 +02:00 [INF] Get messages by chat, id -> 18
+2020-03-03 16:08:45.172 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.173 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.175 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.175 +02:00 [INF] Create new chat by user, id -> 55
+2020-03-03 16:08:45.184 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.196 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.198 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.215 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.217 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.219 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.219 +02:00 [INF] Create new chat by user, id -> 59
+2020-03-03 16:08:45.223 +02:00 [INF] Save new text message
+2020-03-03 16:08:45.243 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.246 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.249 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.249 +02:00 [INF] Create new chat by user, id -> 61
+2020-03-03 16:08:45.253 +02:00 [INF] Save new text message
+2020-03-03 16:08:45.253 +02:00 [INF] Send new message, id -> 14
+2020-03-03 16:08:45.278 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.281 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.283 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.283 +02:00 [INF] Create new chat by user, id -> 63
+2020-03-03 16:08:45.293 +02:00 [INF] Registrate new user, id -> 65
+2020-03-03 16:08:45.307 +02:00 [INF] Registrate new user, id -> 66
+2020-03-03 16:08:45.323 +02:00 [INF] Registrate new user, id -> 2022020-03-03 16:08:45.328 +02:00 [INF] Registrate new user, id -2020-2020-03-03 16:08:45.335 +02:00 [INF] Registrate new user, id -> 69
+03-03 16:08:45.329 +02:00 [INF] Update profile gender, id -> 
+2020-03-03 16:08:45.329 +02:00 [WRN] Incorrect value in variable profile gender, id -> 68
+2020-03-03 16:08:45.337 +02:00 [INF] Update profile, id -> 69
+2020-03-03 16:08:45.352 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.409 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.441 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.446 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.491 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.495 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.507 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.512 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.523 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.527 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.538 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.542 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:45.653 +02:00 [INF] Check login, result -> True
+2020-03-032020-03-03 16:08:46.101 +02:00 [INF] User(id -> 100) unblock user, id -> 13
+21 +02:00 [INF] Check login, result -> True
+2020-2020-03-03 16:08:45.927 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.927 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.928 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.928 +02:00 [INF] Create new chat by user, id -> 92
+2020-03-03 16:08:45.929 +02:00 [INF] Get chats by user, id -> 92
+2020-03-03 16:08:45.972 +02:00 [INF] Save new chat
+2020-03-03 16:08:45.973 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.974 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:45.974 +02:00 [INF] Create new chat by user, id -> 94
+2020-03-03 16:08:45.976 +02:00 [INF] Get chats by user with gender, id -> 94
+2020-03-03 16:08:46.035 +02:00 [INF] Save new chat
+2020-03-03 16:08:46.036 +02:00 [INF] Create and save new participants
+2020-03-03 16:08:46.036 +02:00 [INF] Create and save 2020-03-03 16:08:46.067 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:46.072 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:46.089 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:46.094 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:46.106 +02:00 [INF] Check login, result -> True
+2020-03-03 16:08:46.115 +02:00 [INF] Check login, result -> True
+46.092 +02:00 [INF] Registrate new user, id -> 100
+2020-03-03 16:08:46.097 +02:00 [INF] Registrate new user, id -> 101
+2020-03-03 16:08:46.109 +02:00 [INF] Registrate new user, id -> 102
+2020-03-03 16:08:46.118 +02:00 [INF] Registrate new user, id -> 103
+2020-03-03 16:08:46.128 +02:00 [INF] Registrate new user, id -> 104
+2020-03-03 16:08:46.139 +02:00 [INF] Registrate new user, id -> 105
+2020-03-03 16:08:46.143 +02:00 [INF] Registrate new user, id -> 106
+2020-03-03 16:08:46.147 +02:00 [INF] Registrate new user, id -> 107
+2020-03-03 16:08:46.152 +02:00 [INF] Registrate new user, id -> 108
+2020-03-03 16:08:46.156 +02:00 [INF] Registrate new user, id -> 109
+2020-03-03 16:08:46.165 +02:00 [INF] Registrate new user, id -> 110
+2020-03-03 16:08:46.167 +02:00 [INF] Registrate new user, id -> 111
+2020-03-03 16:08:46.170 +02:00 [INF] Registrate new user, id -> 112
+2020-03-03 16:08:46.211 +02:00 [INF] Registrate new user, id -> 113
+2020-03-03 16:08:46.214 +02:00 [INF] Registrate new user, id -> 114
+2022020-03-03 16:08:46.230 +02:00 [INF] Get liked users by user, id 2020-032020-03-03 16:08:46.269 +02:00 [INF] Get liked users by user(reciprocal), id -> 118
+2020-03-03 16:08:46.302 +02:00 [INF] Get liked users by user(reciprocal), id -> 121
+2020-03-03 16:08:46.328 +02:00 [INF] Get users by user and gender, id -> 124
+2020-03-03 16:08:46.367 +02:00 [INF] Get users by user and gender, id -> 127
+2020-03-03 16:08:46.395 +02:00 [INF] Get users by user and gender, id -> 130
+2020-03-03 16:08:46.423 +02:00 [INF] Get users by user, id -> 135
+2020-03-03 16:08:46.427 +02:00 [INF] Get users by user, id -> 135
+2020-03-03 16:08:46.428 +02:00 [INF] Get users by user, id -> 137
+2020-03-03 16:08:46.489 +02:00 [INF] Get liked users by user, id -> 141
+2020-03-03 16:08:46.492 +02:00 [INF] Get liked users by user(reciprocal), id -> 141
+2020-03-03 16:08:46.505 +02:00 [INF] Get reciprocal users, id -> 141
+2020-03-03 16:08:46.542 +02:00 [INF] Get liked users by user, id -> 145
+2020-03-03 16:08:46.544 +02:00 [INF] Get liked users by user(reciprocal), id -> 145
+2020-03-03 16:08:46.545 +02:00 [INF] Get reciprocal users, id -> 145
+F] Registrate new user, id -> 131
+2020-03-03 16:08:46.384 +02:00 [INF] Registrate new user, id -> 132
+2020-03-03 16:08:46.403 +02:00 [INF] Registrate new user, id -> 133
+2020-03-03 16:08:46.408 +02:00 [INF] Registrate new user, id -> 134
+2020-03-03 16:08:46.416 +02:00 [INF] Registrate new user, id -> 135
+2020-03-03 16:08:46.419 +02:00 [INF] Registrate new user, id -> 136
+2020-03-03 16:08:46.422 +02:00 [INF] Registrate new user, id -> 137
+2020-03-03 16:08:46.450 +02:00 [INF] Registrate new user, id -> 138
+2020-03-03 16:08:46.455 +02:00 [INF] Registrate new user, id -> 139
+2020-03-03 16:08:46.458 +02:00 [INF] Registrate new user, id -> 140
+2020-03-03 16:08:46.467 +02:00 [INF] Registrate new user, id -> 141
+2020-03-03 16:08:46.470 +02:00 [INF] Registrate new user, id -> 142
+2020-03-03 16:08:46.473 +02:00 [INF] Registrate new user, id -> 143
+2020-03-03 16:08:46.476 +02:00 [INF] Registrate new user, id -> 144
+2020-03-03 16:08:46.518 +02:00 [INF] Registrate new user, id -> 145
+2020-03-03 16:08:46.522 +02:00 [INF] Registrate new user, id -> 146
+2020-03-03 16:08:46.525 +02:00 [INF] Registrate new user, id -> 147
+2020-03-03 16:08:46.527 +02:00 [INF] Registrate new user, id -> 148
+2020-03-03 16:08:46.529 +02:00 [INF] Update profile gender, id -> 
+2020-03-03 16:10:34.670 +02:00 [INF] Registrate new user, id -> 1
+2020-03-03 16:11:40.471 +02:00 [INF] Registrate new user, id -> 1
